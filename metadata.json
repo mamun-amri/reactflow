@@ -1,0 +1,5 @@
+
+{
+  "name": "Transit Map Designer",
+  "description": "A React Flow-based application for designing transit maps, allowing users to create stations, connect them with colorful lines, and edit labels."
+}
